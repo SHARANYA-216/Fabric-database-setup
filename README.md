@@ -234,4 +234,9 @@ If setup fails, check:
 - Virtual environment activation
 - Correct file naming
 
+## 📸 API Preview
+
+![Swagger UI](Desktop/api1.png)
+![](Desktop/api2.png)
+
 Happy Coding 🚀
