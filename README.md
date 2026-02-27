@@ -236,7 +236,7 @@ If setup fails, check:
 
 ## 📸 API Preview
 
-![Swagger UI](Desktop/api1.png)
-![](Desktop/api2.png)
+![](api1.png)
+![](api2.png)
 
 Happy Coding 🚀
